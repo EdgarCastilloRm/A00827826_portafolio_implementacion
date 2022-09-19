@@ -1,0 +1,9 @@
+Edgar Castillo Ramírez A00827826
+
+Inteligencia artificial avanzada para la ciencia de datos I (Gpo 102)
+
+Liga al repositorio de GitHub para la entrega de Uso de framework o biblioteca de aprendizaje máquina
+para la implementación de una solución:
+
+https://github.com/EdgarCastilloRm/Framework-ML-Model
+
